@@ -24,7 +24,7 @@ Python and its following libraries are used to analyze Zomato data.
 
 ![Screenshot-from-2023-07-06-13-20-16](https://github.com/crew-12-to-moon/Zomato-Data-Analysis-/assets/106720341/aa9190ef-75dd-40e4-bb45-fe039721dfc2)
  
-## CONCLUSION: Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants, but prefer online ordering at cafes.
+### CONCLUSION: Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants, but prefer online ordering at cafes.
 
 
 
